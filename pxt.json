@@ -1,0 +1,14 @@
+{
+    "name": "carl6robot",
+    "version": "0.0.1",
+    "description": "A simple driver for the Carl6 Robot",
+    "license": "MIT",
+    "dependencies": {
+    "core": "*"
+    },
+    "files": [
+    "README.md",
+    "motors.ts"
+    ],
+    "public": true
+}
