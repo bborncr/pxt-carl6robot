@@ -8,7 +8,7 @@
     },
     "files": [
     "README.md",
-    "motors.ts"
+    "carl6robot.ts"
     ],
     "public": true
 }
